@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/ZBCUegTZF7M?si=ubt0vk70lSjt6DCs" target="_blank">
-      <img src="https://github.com/adrianhajdin/sora/assets/151519281/d8eb68e6-a24a-4ff5-aee8-ed0d9b154f89" alt="Project Banner">
+      <img src="https://i.ibb.co/wRdcqFS/Sora-README.png" alt="Project Banner">
     </a>
   <br />
 
