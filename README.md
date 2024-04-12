@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/ZBCUegTZF7M?si=ubt0vk70lSjt6DCs" target="_blank">
-      <img src="https://camo.githubusercontent.com/450ebe1dfe55b987e3495bff51e4197a02f4c9f4eac1eb297fa50f90b1957da2/68747470733a2f2f692e6962622e636f2f775264637146532f536f72612d524541444d452e706e67" alt="Project Banner">
+      <img src="https://i.ibb.co/Zxr45BS/Readme-Thumbnail.png" alt="Project Banner">
     </a>
   <br />
 
