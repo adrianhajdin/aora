@@ -17,5 +17,6 @@
   },
   "[svg]": {
     "editor.defaultFormatter": "jock.svg"
-  }
+  },
+  "cSpell.words": ["APPWRITE", "nativewind"]
 }
