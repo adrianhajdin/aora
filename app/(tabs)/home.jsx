@@ -78,7 +78,11 @@ const Home = () => {
           />
         )}
         refreshControl={
-          <RefreshControl refreshing={refreshing} onRefresh={onRefresh} />
+          <RefreshControl
+            refreshing={refreshing}
+            onRefresh={onRefresh}
+            tintColor="white"
+          />
         }
       />
     </SafeAreaView>
